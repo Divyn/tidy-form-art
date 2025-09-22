@@ -16,7 +16,11 @@ export default {
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
+        "input-background": "hsl(var(--input-background))",
         ring: "hsl(var(--ring))",
+        "form-label": "hsl(var(--form-label))",
+        "form-description": "hsl(var(--form-description))",
+        "form-error": "hsl(var(--form-error))",
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
         primary: {
